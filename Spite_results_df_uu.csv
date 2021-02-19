@@ -1,0 +1,3 @@
+Experiment,spite_sigma,comp_sigma,diff_sigma,cost,average_n_individuals,average_mean_spite,average_max_spite,average_sd_spite,average_mean_density,final_spite_10_quantile,final_spite_25_quantile,final_spite_50_quantile,final_spite_75_quantile,final_spite_90_quantile
+d4_c1_s1_cost0.005_kd0.05_resTrue_kc0.05,1.0,1.0,4.0,0.005,42745.518,-0.20929587,0.10840001,0.1338876,6.3681364e-05,-0.40000003576278687,-0.30000001192092896,-0.20000000298023224,-0.10000000894069672,-0.05000000819563866
+d8_c8_s8_cost0.005_kd0.05_resTrue_kc0.05,8.0,8.0,8.0,0.005,13277.286,0.76498014,1.09335,0.12567286,0.040083498,0.6000000834465027,0.7000001072883606,0.8000001311302185,0.9000001549720764,0.9500001668930054
